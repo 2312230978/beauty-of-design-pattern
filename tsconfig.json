@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // Ensures that every non-declaration file is treated as a module.
+    "moduleDetection": "force"
+  }
+}
